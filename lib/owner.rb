@@ -60,6 +60,5 @@ class Owner
 
   def list_pets
     "I have #{self.dogs.count} dog(s), and #{self.cats.count} cat(s)."
-   end
 	end 
 end
