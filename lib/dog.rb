@@ -1,6 +1,5 @@
 class Dog
-  # code goes here	  # code goes here
-
+  
   attr_accessor  :owner, :mood
   attr_reader :name 
 
@@ -18,4 +17,4 @@ class Dog
    @@all
   end
 
-end 	end 
+end 	
